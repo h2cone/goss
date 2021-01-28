@@ -1,0 +1,6 @@
+[submodule "go-shadowsocks2"]
+	path = go-shadowsocks2
+	url = https://github.com/shadowsocks/go-shadowsocks2.git
+[submodule "v2ray-plugin"]
+	path = v2ray-plugin
+	url = https://github.com/shadowsocks/v2ray-plugin.git
